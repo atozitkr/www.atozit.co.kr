@@ -25,7 +25,6 @@ $("#contactForm").submit(function(event){
     // Fire off the request to /form.php
     request = $.ajax({
         url: "https://script.google.com/macros/s/AKfycbyJahY3Ojv5Rn2TdpkOvzvJUOzvkJKtT2KlqOhQrGSNMP8WXuw/exec",
-		
         type: "post",
         data: serializedData
     });
