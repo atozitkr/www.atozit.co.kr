@@ -1,0 +1,2 @@
+Sitemap: https://www.atozit.co.kr/sitemap.xml
+User-agent: *

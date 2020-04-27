@@ -1,0 +1,6 @@
+Sitemap: https://www.atozit.co.kr/sitemap.xml
+User-agent: *
+Disallow: /contactform/
+Disallow: /css/
+Disallow: /js/
+Disallow: /lib/
